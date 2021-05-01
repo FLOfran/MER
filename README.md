@@ -1,1 +1,1 @@
-Music Emotion Recognition
+<b>Music Emotion Recognition </b>
